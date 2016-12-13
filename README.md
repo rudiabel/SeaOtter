@@ -1,0 +1,2 @@
+# SeaOtter
+Strategic thinking
